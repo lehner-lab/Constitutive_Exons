@@ -1,0 +1,7 @@
+pair1	pair2	barcode	new_pair_prefix
+FAS_Input_1.fastq.gz	FAS_Input_2.fastq.gz	GCCGAATT	Input_Rep1_read
+FAS_Input_1.fastq.gz	FAS_Input_2.fastq.gz	CGGCAATT	Input_Rep2_read
+FAS_Input_1.fastq.gz	FAS_Input_2.fastq.gz	GAACGTTC	Input_Rep3_read
+HEK293_1.fastq.gz	HEK293_2.fastq.gz	GCCGAATT	Output_Rep1_read
+HEK293_1.fastq.gz	HEK293_2.fastq.gz	CGGCAATT	Output_Rep2_read
+HEK293_1.fastq.gz	HEK293_2.fastq.gz	GAACGTTC	Output_Rep3_read
